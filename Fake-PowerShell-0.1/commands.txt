@@ -1,0 +1,44 @@
+------------- Normal Use ---------------------
+
+ps maker
+
+ps info
+
+------------- developer Mode ---------------------
+
+ps --dev
+
+psdev userinfo
+
+psdev update
+
+ps rm nm
+
+ps rm pyca
+
+-----------------hacker mode -----------------
+
+ps hackermode
+
+powerShell --user --name
+
+powerShell install coda
+
+coda install terminalHacker
+
+terminalHacker --all
+
+terminalHacker --getUser_access
+
+terminalHacker --bute_force --getUser_access
+
+terminalHacker --bank
+
+terminalHacker --bank --access(1)
+
+ps hackermode --exit
+
+---- Universal exit command line ----
+exit
+
+exit()
