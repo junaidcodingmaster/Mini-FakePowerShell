@@ -1,6 +1,5 @@
-# Mini-FakePowerShell
-
 ![Logo](https://i.ibb.co/DYtrDyd/New-Project-4.png)
+# Mini-FakePowerShell
 Mini-FakePowerShell is FakePowerShell simulation for Linux users.
 
 **Note** : This script is only for Linux users
